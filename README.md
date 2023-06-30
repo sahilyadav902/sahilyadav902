@@ -18,5 +18,4 @@ I'm Sahil, a Full Stack/MERN Stack Developer from India
 - 👯 I’m looking to collaborate on some interesting Web Development projects
 - 💬 Ask me about anything related to Javascript, React or Tailwind
 - 📫 How to reach me: sahilyadav902@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cycling
