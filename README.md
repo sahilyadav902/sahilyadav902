@@ -22,38 +22,11 @@ I enjoy building software that feels smooth and intuitive, whether it’s design
 
 ### 🛠 Tech Stacks I've Worked With
 
-**Frontend**
-- Next.js
-- React.js
-- Angular
-- React Query
-- Zustand
-- Zod
-- Tailwind CSS
-- Framer Motion
-- HTML / CSS
-
-**Backend**
-- Spring Boot
-- Node.js
-- Express.js
-- Django
-- Flask
-
-**Databases**
-- PostgreSQL
-- MySQL
-- MongoDB
-- IBM DB2
-
-**Tools**
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-- Eclipse IDE
-- Postman
-- GitHub Copilot
-- Amazon Q
+- **Frontend:** Next.js, React.js, Angular, React Query, Zustand, Zod, Tailwind CSS, Framer Motion, HTML, CSS  
+- **Backend:** Spring Boot, Node.js, Express.js, Django, Flask  
+- **Databases:** PostgreSQL, MySQL, MongoDB, IBM DB2  
+- **AI:** LLM Applications, RAG, Agentic AI, OpenAI Agents SDK, LangChain, CrewAI, AutoGen, Ollama, MCP  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Eclipse IDE, Postman, GitHub Copilot, Amazon Q  
 
 ---
 
